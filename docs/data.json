@@ -1,0 +1,13 @@
+{
+    "project": {
+        "name": "d3-linegraph",
+        "description": "Base d3 linegraph class",
+        "version": "1.3.1",
+        "url": "andy@85.119.83.8:repos/d3-linegraph.git"
+    },
+    "files": {},
+    "modules": {},
+    "classes": {},
+    "classitems": [],
+    "warnings": []
+}
