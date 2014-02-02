@@ -1,0 +1,26 @@
+{
+  "name": "d3-linegraph",
+  "version": "0.0.1",
+  "description": "Base d3 linegraph class",
+  "dependencies": {
+    "mbostock/d3": "time-bst",
+    "techjacker/d3base": "*",
+    "techjacker/mitsubishi": "2.4.0",
+    "techjacker/extasy": "*"
+  },
+  "main": "lib/main.js",
+  "scripts": [
+    "lib/main.js",
+    "lib/setup.js",
+    "lib/data.js",
+    "lib/draw.js"
+  ],
+  "styles": [
+    "css/area.css",
+    "css/axis-label_title.css",
+    "css/axis.css",
+    "css/graph.css",
+    "css/grid.css",
+    "css/line.css"
+  ]
+}
