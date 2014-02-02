@@ -1,8 +1,7 @@
 {
   "name": "d3-linegraph",
-  "private": true,
-  "version": "0.0.1",
-  "description": "Base d3 linegraph class",
+  "version": "0.1.1",
+  "description": "Lightweight d3 linegraph class",
   "author": {
     "name": "Andrew Griffiths",
     "email": "mail@andrewgriffithsonline.com"

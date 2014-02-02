@@ -1,6 +1,6 @@
 {
   "name": "d3-linegraph",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Base d3 linegraph class",
   "dependencies": {
     "mbostock/d3": "time-bst",

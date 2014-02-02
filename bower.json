@@ -1,6 +1,6 @@
 {
   "name": "d3-linegraph",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Lightweight d3 linegraph class",
   "main": "build/d3-linegraph.js",
   "licenses": [{"type": "MIT"}],
